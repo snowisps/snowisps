@@ -4,7 +4,10 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/10/c6/58/10c6589ee08ba74c80e0b8162d4d7395.gif" width="400">
+<p align="center">
+  <img src="https://i.pinimg.com/originals/10/c6/58/10c6589ee08ba74c80e0b8162d4d7395.gif" width="500" alt="Description of image">
+</p>
+
 
 
 
