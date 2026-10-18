@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=snowisps&color=6b78b5)
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31px23muq2op5fspxzo2b2rkokbe&redirect=true">
