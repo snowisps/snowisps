@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/10/c6/58/10c6589ee08ba74c80e0b8162d4d7395.gif" width="300" height="200">
+  <img src="https://files.catbox.moe/mdoel4.png" width="200">
 </p>
 
 
