@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/mdoel4.png" width="200">
+  <img src="https://i.postimg.cc/RZF9J8VY/b40cd5e0ab608a4bf245508882f47f9e-removebg-preview.png" width="200">
 </p>
 
 
