@@ -1,4 +1,6 @@
-
+<p align="center">
+  <![](https://komarev.com/ghpvc/?username=snowisps&color=A7D8DE&style=flat-square&label=PROFILE+VIEWS) />
+  </p>
   
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31px23muq2op5fspxzo2b2rkokbe&redirect=true">
@@ -13,6 +15,9 @@
 <p align="center">
   <img src="https://i.postimg.cc/RZF9J8VY/b40cd5e0ab608a4bf245508882f47f9e-removebg-preview.png" width="200">
 </p>
+
+
+
 
 
 
