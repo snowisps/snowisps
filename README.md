@@ -1,7 +1,6 @@
-<p align="center">
-  <![](https://komarev.com/ghpvc/?username=snowisps&color=A7D8DE&style=flat-square&label=PROFILE+VIEWS) />
-  </p>
-  
+![](https://komarev.com/ghpvc/?username=snowisps&color=C7B7A6&style=flat-square&label=ㅤㅤbuns+໒+꒱ㅤㅤ)
+
+
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31px23muq2op5fspxzo2b2rkokbe&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31px23muq2op5fspxzo2b2rkokbe&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=C7B7A6&bar_color_cover=false">
